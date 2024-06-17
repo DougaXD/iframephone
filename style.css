@@ -8,7 +8,7 @@ html, body{
   background-color: black;
 }
 body{
-  background: black url("../util/imagens/fundo-madeira.jpg") top center no-repeat fixed;
+  background: black url("fundo-madeira.jpg") top center no-repeat fixed;
   background-size: cover;
 }
 main{
@@ -18,7 +18,7 @@ main{
   height: 100vh;
 }
 section#telefone{
-  background: url("../util/imagens/frame-iphone.png") no-repeat;
+  background: url("frame-iphone.png") no-repeat;
   width: 311px;
   height: 627px;
   margin: auto;
